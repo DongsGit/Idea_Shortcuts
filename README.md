@@ -12,14 +12,14 @@
 |<kbd>Alt+Shift+F10</kbd>|Run或Debug|在弹出窗口按住Shift可以切换为Debug|-|
 |<kbd>Alt+6</kbd>|切换TODO窗口|在敲代码时可以使用todo，fixme来生成TODO项|
 |<kbd>Alt+9</kbd>|切换版本控制窗口|右下角可以快速切换branch，<kbd>Alt+\`</kbd>显示版本控制菜单，<kbd>Ctrl+K</kbd>提交，选中代码中绿色滚动条<kbd>Ctrl+Alt+Z</kbd>回滚，<kbd>Ctrl+D</kbd>比较|
-|<kbd>Ctrl+TAB</kbd>|Switcher选择|这时按住Ctrl配合左右箭头和数字键选择|
+|<kbd>Ctrl+TAB</kbd>|Switcher选择|这时按住Ctrl配合左右箭头和数字键选择，Alt+数字没有的工具窗口只能靠它了|
 |<kbd>Ctrl+Shift+F10</kbd>|切换所有工具窗口|-|
 |<kbd>Ctrl+F4</kbd>|关闭当前Tab窗口，官方的建议是不使用Tab窗口|<kbd>Ctrl+Shift+A</kbd>输入tabs搜索|
 
 ## 2. 生成
 |快捷键|作用|经验与相关|
 |-|-|-|
-|<kbd>Alt+INSERT</kbd>|生成代码：包括getter，setter，构造方法等|<kbd>Ctrl+I</kbd>生成接口方法，<kbd>Ctrl+O</kbd>重写父类方法，注意它们可以使用<kbd>Alt+Enter</kbd>和`直接输入父类方法名`来代替|
+|<kbd>Alt+Insert</kbd>|生成代码：包括getter，setter，构造方法等|<kbd>Ctrl+I</kbd>生成接口方法，<kbd>Ctrl+O</kbd>重写父类方法，注意它们可以使用<kbd>Alt+Enter</kbd>和`直接输入父类方法名`来代替|
 |<kbd>Ctrl+Alt+Shift+Insert</kbd>|生成临时文件|-|
 |<kbd>Ctrl+Alt+T</kbd>|生成测试类|-|
 
