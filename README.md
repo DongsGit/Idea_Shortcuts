@@ -40,11 +40,11 @@
 |<kbd>Ctrl+Shift+/</kbd>|多行注释|-|
 |<kbd>Ctrl+Shift+V</kbd>|选择性粘贴|-|
 |<kbd>Ctrl+Alt+L</kbd>|格式化代码|-|
-|<kbd>Alt+Shift+上下箭头</kbd>|单行移动|-|
-|<kbd>Ctrl+Shift+上下箭头</kbd>|整个语句移动|-|
+|<kbd>Alt+Shift+&uarr;&darr;</kbd>|单行移动|-|
+|<kbd>Ctrl+Shift+&uarr;&darr;</kbd>|整个语句移动|-|
 |<kbd>Ctrl+Shift+Alt+T</kbd>|重构|<kbd>Shift+F6</kbd>重命名等|
-|-|代码内跳转|<kbd>Ctrl+左右箭头</kbd>按单词跳转，<kbd>Alt+上下箭头</kbd>按方法跳转，<kbd>Ctrl+[]</kbd>到前后代码块|
-|-|代码间跳转|<kbd>Ctrl+Alt+左右箭头</kbd>代码前后跳转，<kbd>Ctrl+B</kbd>到声明，<kbd>Ctrl+Alt+B</kbd>到实现，<kbd>Ctrl+U</kbd>到父类|
+|-|代码内跳转|<kbd>Ctrl+&larr;&rarr;</kbd>按单词跳转，<kbd>Alt+&uarr;&darr;</kbd>按方法跳转，<kbd>Ctrl+[]</kbd>到前后代码块|
+|-|代码间跳转|<kbd>Ctrl+Alt+&larr;&rarr;</kbd>代码前后跳转，<kbd>Ctrl+B</kbd>到声明，<kbd>Ctrl+Alt+B</kbd>到实现，<kbd>Ctrl+U</kbd>到父类|
 
 ## 4. 查找
 |快捷键|作用|经验与相关|
