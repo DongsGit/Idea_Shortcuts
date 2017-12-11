@@ -6,7 +6,7 @@
 |-|-|-|
 |<kbd>Alt+1</kbd>|切换项目窗口|可以在窗口中直接按键进行查找，再配合<kbd>Alt+Insert</kbd>插入新内容|
 |<kbd>Alt+2</kbd>|切换收藏夹窗口|此窗口中包含`最爱`，`书签`，`断点`三部分|
-|<kbd>Ctrl+F11</kbd>或<kbd>Ctrl+Shift+数字</kbd>|切换定义书签|可以配合<kbd>Ctrl+数字</kbd>快速定位到书签，有点像魔兽争霸中的编队快捷键。<kbd>Shift+F11</kbd>显示所有书签|
+|<kbd>Ctrl+F11</kbd>|切换定义书签|(也可以使用<kbd>Ctrl+Shift+数字</kbd>来定义书签)，可以配合<kbd>Ctrl+数字</kbd>快速定位到书签，有点像魔兽争霸中的编队快捷键。<kbd>Shift+F11</kbd>显示所有书签|
 |<kbd>Alt+4</kbd>|切换Run窗口|必须运行后才有，运行快捷键<kbd>Shift+F10</kbd>|
 |<kbd>Alt+5</kbd>|切换Debug窗口|必须运行后才有，调试快捷键<kbd>Shift+F9</kbd>|
 |<kbd>Alt+Shift+F10</kbd>|Run或Debug|在弹出窗口按住Shift可以切换为Debug|-|
