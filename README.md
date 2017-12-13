@@ -19,7 +19,7 @@
 ## 2. 生成
 |快捷键|作用|经验与相关|
 |-|-|-|
-|<kbd>Alt+Insert</kbd>|生成代码：包括getter，setter，构造方法等|<kbd>Ctrl+I</kbd>生成接口方法，<kbd>Ctrl+O</kbd>重写父类方法，注意它们可以使用<kbd>Alt+Enter</kbd>和`直接输入父类方法名`来代替|
+|<kbd>Alt+Insert</kbd>|生成代码：包括getter，setter，构造方法，测试方法，spring依赖注入等|<kbd>Ctrl+I</kbd>生成接口方法，<kbd>Ctrl+O</kbd>重写父类方法，注意它们可以使用<kbd>Alt+Enter</kbd>和`直接输入父类方法名`来代替|
 |<kbd>Ctrl+Alt+Shift+Insert</kbd>|生成临时文件|-|
 |<kbd>Ctrl+Alt+T</kbd>|生成测试类|-|
 
