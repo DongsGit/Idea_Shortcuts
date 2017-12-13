@@ -21,7 +21,7 @@
 |-|-|-|
 |<kbd>Alt+Insert</kbd>|生成代码：包括getter，setter，构造方法，测试方法，spring依赖注入等|<kbd>Ctrl+I</kbd>生成接口方法，<kbd>Ctrl+O</kbd>重写父类方法，注意它们可以使用<kbd>Alt+Enter</kbd>和`直接输入父类方法名`来代替|
 |<kbd>Ctrl+Alt+Shift+Insert</kbd>|生成临时文件|-|
-|<kbd>Ctrl+Alt+T</kbd>|生成测试类|-|
+|<kbd>Ctrl+Shift+T</kbd>|生成测试类|-|
 
 ## 3. 编辑
 |作用|经验与相关|
@@ -29,7 +29,7 @@
 |live模板|例如有psvm，sout，soutp，fori和html中的zen等|
 |postfix模板|例如有cast，if，for，fori，inst，nn，null，var，sout，switch，stream，try，while，return等|
 |file模板|例如可以把MyBatis的Mapper文件定义为模板|
-|自动完成|一般不需要主动敲快捷键，都是在输入字符时自动提示的。由于<kbd>Ctrl+空格</kbd>和<kbd>Ctrl+Shift+空格</kbd>与输入法冲突，建议修改为<kbd>Alt+.</kbd>和<kbd>Alt+,</kbd>，按两次有惊喜|
+|自动完成|一般不需要主动敲快捷键，都是在输入字符时自动提示的。由于<kbd>Ctrl+空格</kbd>和<kbd>Ctrl+Shift+空格</kbd>与输入法冲突，建议修改为<kbd>Alt+.</kbd>和<kbd>Alt+,</kbd>，按一次，在当前上下文寻找，按两次，在扩展的上下文寻找|
 |结束|<kbd>Ctrl+Shift+Enter</kbd>自动结束，<kbd>Shift+Enter</kbd>下一行开始，<kbd>Ctrl+Alt+Enter</kbd>上一行开始|
 |自动修复|<kbd>Alt+Enter</kbd>|
 |代码环绕|<kbd>Ctrl+Alt+T</kbd>|
